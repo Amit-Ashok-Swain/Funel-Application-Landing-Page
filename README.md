@@ -51,21 +51,7 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Installing Funel
 
-To install **Funel**, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/funel-agency_landing_page.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/funel-agency_landing_page.git
-```
 
 <!-- License -->
 ## License
